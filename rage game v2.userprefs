@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\pressureMeter.js">
+    <Files>
+      <File FileName="Assets\scripts\inflateBalloon.js" Line="61" Column="2" />
+      <File FileName="Assets\scripts\balloonBounceSound.js" Line="9" Column="38" />
+      <File FileName="Assets\scripts\setBallSpeed.js" Line="94" Column="3" />
+      <File FileName="Assets\scripts\pressureMeter.js" Line="13" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
